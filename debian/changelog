@@ -137,6 +137,13 @@ xplayer (1.8.0) tara; urgency=medium
 
  -- Clement Lefebvre <root@linuxmint.com>  Sun, 06 May 2018 16:52:45 +0100
 
+xplayer (1.6.1-1~ubuntuReleaseName0) ubuntuReleaseName; urgency=medium
+
+  * New upstream release
+  * Packaging: Add gnome-common build dependency
+
+ -- embrosyn <embrosyn@netc.eu>  Mon, 04 Dec 2017 01:05:09 +0100
+
 xplayer (1.6.1) sylvia; urgency=medium
 
   * l10n: Update translations
