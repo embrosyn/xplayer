@@ -1,3 +1,9 @@
+xplayer (2.2.3-1~ubuntuReleaseName0) ubuntuReleaseName; urgency=medium
+
+  * Revert adding 'gnome-common' as a dependency
+
+ -- embrosyn <embrosyn@netc.eu>  Fri, 13 Dec 2019 07:13:52 +0100
+
 xplayer (2.2.3) tricia; urgency=medium
 
   * l10n: Update translations
