@@ -103,6 +103,7 @@ Description: Media player
 Package: xplayer-common
 Architecture: all
 Depends: ${misc:Depends}
+Recommends: yelp
 Description: Data files for the Xplayer media player
  Xplayer is a simple yet featureful media player which can read
  a large number of file formats.
